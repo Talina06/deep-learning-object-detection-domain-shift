@@ -1,0 +1,18 @@
+# environment / caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# datasets and model checkpoints (downloaded by the commands in README)
+data/
+weights/
+*.pt
+*.zip
+
+# raw per-box detections (~426 MB); regenerate with ./run_all.sh
+results/*/detections.json
+
+# superseded runs (laptop slept mid-run; smoke tests)
+results_interrupted_*/
+results_smoke/
