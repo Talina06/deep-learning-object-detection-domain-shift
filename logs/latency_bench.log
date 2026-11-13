@@ -1,0 +1,19 @@
+yolo11n      coco   640              median   13.1 ms  p90   16.4 ms   76.1 FPS  MPS mem 94 MB
+yolo11s      coco   640              median   17.8 ms  p90   20.8 ms   56.1 FPS  MPS mem 184 MB
+yolo11m      coco   640              median   36.8 ms  p90   44.8 ms   27.2 FPS  MPS mem 1155 MB
+rtdetr_l     coco   640              median   62.5 ms  p90   64.5 ms   16.0 FPS  MPS mem 1148 MB
+yoloworld_s  coco   640              median   22.1 ms  p90   25.6 ms   45.3 FPS  MPS mem 1170 MB
+frcnn_r50v2  coco   min800/max1333   median  327.4 ms  p90  351.7 ms    3.1 FPS  MPS mem 2250 MB
+fcos_r50     coco   min800/max1333   median  223.3 ms  p90  241.8 ms    4.5 FPS  MPS mem 1202 MB
+yolo11n      kitti  640              median    9.7 ms  p90   10.9 ms  103.5 FPS  MPS mem 68 MB
+yolo11s      kitti  640              median   11.6 ms  p90   12.7 ms   86.1 FPS  MPS mem 118 MB
+yolo11m      kitti  640              median   19.3 ms  p90   21.9 ms   51.8 FPS  MPS mem 162 MB
+rtdetr_l     kitti  640              median   70.2 ms  p90   73.8 ms   14.2 FPS  MPS mem 1148 MB
+yoloworld_s  kitti  640              median   13.6 ms  p90   14.9 ms   73.3 FPS  MPS mem 106 MB
+frcnn_r50v2  kitti  min800/max1333   median  243.2 ms  p90  247.3 ms    4.1 FPS  MPS mem 1218 MB
+fcos_r50     kitti  min800/max1333   median  138.7 ms  p90  139.8 ms    7.2 FPS  MPS mem 1234 MB
+yolo11s      kitti  1280             median   24.3 ms  p90   25.1 ms   41.1 FPS  MPS mem 1102 MB
+yolo11m      kitti  1280             median   56.8 ms  p90   57.3 ms   17.6 FPS  MPS mem 1146 MB
+rtdetr_l     kitti  1280             median  209.4 ms  p90  210.5 ms    4.8 FPS  MPS mem 2180 MB
+yoloworld_s  kitti  1280             median   28.8 ms  p90   29.3 ms   34.7 FPS  MPS mem 1162 MB
+LATENCY BENCH FINISHED

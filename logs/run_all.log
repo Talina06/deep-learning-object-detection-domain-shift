@@ -1,0 +1,652 @@
+1496 images, 9243 anns; non-crowd per class: {'car': 5716, 'pedestrian': 921, 'cyclist': 352, 'truck': 223, 'tram': 117}
+[yolo11n_coco_640] 1/5000  median latency 15.3 ms  elapsed 0.0 min  ETA 1.3 min
+[yolo11n_coco_640] 101/5000  median latency 13.0 ms  elapsed 0.0 min  ETA 1.5 min
+[yolo11n_coco_640] 201/5000  median latency 12.9 ms  elapsed 0.1 min  ETA 1.3 min
+[yolo11n_coco_640] 301/5000  median latency 12.8 ms  elapsed 0.1 min  ETA 1.2 min
+[yolo11n_coco_640] 401/5000  median latency 12.8 ms  elapsed 0.1 min  ETA 1.2 min
+[yolo11n_coco_640] 501/5000  median latency 12.8 ms  elapsed 0.1 min  ETA 1.1 min
+[yolo11n_coco_640] 601/5000  median latency 12.8 ms  elapsed 0.1 min  ETA 1.1 min
+[yolo11n_coco_640] 701/5000  median latency 12.8 ms  elapsed 0.2 min  ETA 1.1 min
+[yolo11n_coco_640] 801/5000  median latency 12.8 ms  elapsed 0.2 min  ETA 1.0 min
+[yolo11n_coco_640] 901/5000  median latency 12.8 ms  elapsed 0.2 min  ETA 1.0 min
+[yolo11n_coco_640] 1001/5000  median latency 12.8 ms  elapsed 0.2 min  ETA 1.0 min
+[yolo11n_coco_640] 1101/5000  median latency 12.8 ms  elapsed 0.3 min  ETA 0.9 min
+[yolo11n_coco_640] 1201/5000  median latency 12.8 ms  elapsed 0.3 min  ETA 0.9 min
+[yolo11n_coco_640] 1301/5000  median latency 12.8 ms  elapsed 0.3 min  ETA 0.9 min
+[yolo11n_coco_640] 1401/5000  median latency 12.8 ms  elapsed 0.3 min  ETA 0.8 min
+[yolo11n_coco_640] 1501/5000  median latency 12.8 ms  elapsed 0.4 min  ETA 0.8 min
+[yolo11n_coco_640] 1601/5000  median latency 12.8 ms  elapsed 0.4 min  ETA 0.8 min
+[yolo11n_coco_640] 1701/5000  median latency 12.8 ms  elapsed 0.4 min  ETA 0.8 min
+[yolo11n_coco_640] 1801/5000  median latency 12.8 ms  elapsed 0.4 min  ETA 0.7 min
+[yolo11n_coco_640] 1901/5000  median latency 12.8 ms  elapsed 0.4 min  ETA 0.7 min
+[yolo11n_coco_640] 2001/5000  median latency 12.8 ms  elapsed 0.5 min  ETA 0.7 min
+[yolo11n_coco_640] 2101/5000  median latency 12.8 ms  elapsed 0.5 min  ETA 0.7 min
+[yolo11n_coco_640] 2201/5000  median latency 12.8 ms  elapsed 0.5 min  ETA 0.6 min
+[yolo11n_coco_640] 2301/5000  median latency 12.8 ms  elapsed 0.5 min  ETA 0.6 min
+[yolo11n_coco_640] 2401/5000  median latency 12.8 ms  elapsed 0.5 min  ETA 0.6 min
+[yolo11n_coco_640] 2501/5000  median latency 12.8 ms  elapsed 0.6 min  ETA 0.6 min
+[yolo11n_coco_640] 2601/5000  median latency 12.8 ms  elapsed 0.6 min  ETA 0.5 min
+[yolo11n_coco_640] 2701/5000  median latency 12.8 ms  elapsed 0.6 min  ETA 0.5 min
+[yolo11n_coco_640] 2801/5000  median latency 12.8 ms  elapsed 0.6 min  ETA 0.5 min
+[yolo11n_coco_640] 2901/5000  median latency 12.8 ms  elapsed 0.7 min  ETA 0.5 min
+[yolo11n_coco_640] 3001/5000  median latency 12.8 ms  elapsed 0.7 min  ETA 0.5 min
+[yolo11n_coco_640] 3101/5000  median latency 12.8 ms  elapsed 0.7 min  ETA 0.4 min
+[yolo11n_coco_640] 3201/5000  median latency 12.8 ms  elapsed 0.7 min  ETA 0.4 min
+[yolo11n_coco_640] 3301/5000  median latency 12.8 ms  elapsed 0.7 min  ETA 0.4 min
+[yolo11n_coco_640] 3401/5000  median latency 12.8 ms  elapsed 0.8 min  ETA 0.4 min
+[yolo11n_coco_640] 3501/5000  median latency 12.8 ms  elapsed 0.8 min  ETA 0.3 min
+[yolo11n_coco_640] 3601/5000  median latency 12.8 ms  elapsed 0.8 min  ETA 0.3 min
+[yolo11n_coco_640] 3701/5000  median latency 12.8 ms  elapsed 0.8 min  ETA 0.3 min
+[yolo11n_coco_640] 3801/5000  median latency 12.8 ms  elapsed 0.8 min  ETA 0.3 min
+[yolo11n_coco_640] 3901/5000  median latency 12.8 ms  elapsed 0.9 min  ETA 0.2 min
+[yolo11n_coco_640] 4001/5000  median latency 12.8 ms  elapsed 0.9 min  ETA 0.2 min
+[yolo11n_coco_640] 4101/5000  median latency 12.8 ms  elapsed 0.9 min  ETA 0.2 min
+[yolo11n_coco_640] 4201/5000  median latency 12.8 ms  elapsed 0.9 min  ETA 0.2 min
+[yolo11n_coco_640] 4301/5000  median latency 12.8 ms  elapsed 1.0 min  ETA 0.2 min
+[yolo11n_coco_640] 4401/5000  median latency 12.8 ms  elapsed 1.0 min  ETA 0.1 min
+[yolo11n_coco_640] 4501/5000  median latency 12.8 ms  elapsed 1.0 min  ETA 0.1 min
+[yolo11n_coco_640] 4601/5000  median latency 12.8 ms  elapsed 1.0 min  ETA 0.1 min
+[yolo11n_coco_640] 4701/5000  median latency 12.8 ms  elapsed 1.0 min  ETA 0.1 min
+[yolo11n_coco_640] 4801/5000  median latency 12.8 ms  elapsed 1.1 min  ETA 0.0 min
+[yolo11n_coco_640] 4901/5000  median latency 12.8 ms  elapsed 1.1 min  ETA 0.0 min
+[yolo11n_coco_640] 5000/5000  median latency 12.8 ms  elapsed 1.1 min  ETA 0.0 min
+DONE yolo11n_coco_640  latency 12.8 ms  wall 1.1 min
+[yolo11s_coco_640] 1/5000  median latency 18.8 ms  elapsed 0.0 min  ETA 1.6 min
+[yolo11s_coco_640] 101/5000  median latency 17.9 ms  elapsed 0.0 min  ETA 1.8 min
+[yolo11s_coco_640] 201/5000  median latency 17.9 ms  elapsed 0.1 min  ETA 1.6 min
+[yolo11s_coco_640] 301/5000  median latency 17.8 ms  elapsed 0.1 min  ETA 1.6 min
+[yolo11s_coco_640] 401/5000  median latency 17.8 ms  elapsed 0.1 min  ETA 1.5 min
+[yolo11s_coco_640] 501/5000  median latency 17.8 ms  elapsed 0.2 min  ETA 1.5 min
+[yolo11s_coco_640] 601/5000  median latency 17.8 ms  elapsed 0.2 min  ETA 1.4 min
+[yolo11s_coco_640] 701/5000  median latency 17.8 ms  elapsed 0.2 min  ETA 1.4 min
+[yolo11s_coco_640] 801/5000  median latency 17.8 ms  elapsed 0.3 min  ETA 1.3 min
+[yolo11s_coco_640] 901/5000  median latency 17.8 ms  elapsed 0.3 min  ETA 1.3 min
+[yolo11s_coco_640] 1001/5000  median latency 17.8 ms  elapsed 0.3 min  ETA 1.3 min
+[yolo11s_coco_640] 1101/5000  median latency 17.8 ms  elapsed 0.3 min  ETA 1.2 min
+[yolo11s_coco_640] 1201/5000  median latency 17.8 ms  elapsed 0.4 min  ETA 1.2 min
+[yolo11s_coco_640] 1301/5000  median latency 17.8 ms  elapsed 0.4 min  ETA 1.2 min
+[yolo11s_coco_640] 1401/5000  median latency 17.8 ms  elapsed 0.4 min  ETA 1.1 min
+[yolo11s_coco_640] 1501/5000  median latency 17.8 ms  elapsed 0.5 min  ETA 1.1 min
+[yolo11s_coco_640] 1601/5000  median latency 17.8 ms  elapsed 0.5 min  ETA 1.1 min
+[yolo11s_coco_640] 1701/5000  median latency 17.8 ms  elapsed 0.5 min  ETA 1.0 min
+[yolo11s_coco_640] 1801/5000  median latency 17.8 ms  elapsed 0.6 min  ETA 1.0 min
+[yolo11s_coco_640] 1901/5000  median latency 17.8 ms  elapsed 0.6 min  ETA 1.0 min
+[yolo11s_coco_640] 2001/5000  median latency 17.8 ms  elapsed 0.6 min  ETA 0.9 min
+[yolo11s_coco_640] 2101/5000  median latency 17.8 ms  elapsed 0.7 min  ETA 0.9 min
+[yolo11s_coco_640] 2201/5000  median latency 17.8 ms  elapsed 0.7 min  ETA 0.9 min
+[yolo11s_coco_640] 2301/5000  median latency 17.8 ms  elapsed 0.7 min  ETA 0.8 min
+[yolo11s_coco_640] 2401/5000  median latency 17.8 ms  elapsed 0.7 min  ETA 0.8 min
+[yolo11s_coco_640] 2501/5000  median latency 17.8 ms  elapsed 0.8 min  ETA 0.8 min
+[yolo11s_coco_640] 2601/5000  median latency 17.8 ms  elapsed 0.8 min  ETA 0.7 min
+[yolo11s_coco_640] 2701/5000  median latency 17.8 ms  elapsed 0.8 min  ETA 0.7 min
+[yolo11s_coco_640] 2801/5000  median latency 17.8 ms  elapsed 0.9 min  ETA 0.7 min
+[yolo11s_coco_640] 2901/5000  median latency 17.8 ms  elapsed 0.9 min  ETA 0.6 min
+[yolo11s_coco_640] 3001/5000  median latency 17.8 ms  elapsed 0.9 min  ETA 0.6 min
+[yolo11s_coco_640] 3101/5000  median latency 17.8 ms  elapsed 1.0 min  ETA 0.6 min
+[yolo11s_coco_640] 3201/5000  median latency 17.8 ms  elapsed 1.0 min  ETA 0.6 min
+[yolo11s_coco_640] 3301/5000  median latency 17.8 ms  elapsed 1.0 min  ETA 0.5 min
+[yolo11s_coco_640] 3401/5000  median latency 17.8 ms  elapsed 1.0 min  ETA 0.5 min
+[yolo11s_coco_640] 3501/5000  median latency 17.8 ms  elapsed 1.1 min  ETA 0.5 min
+[yolo11s_coco_640] 3601/5000  median latency 17.8 ms  elapsed 1.1 min  ETA 0.4 min
+[yolo11s_coco_640] 3701/5000  median latency 17.8 ms  elapsed 1.1 min  ETA 0.4 min
+[yolo11s_coco_640] 3801/5000  median latency 17.8 ms  elapsed 1.2 min  ETA 0.4 min
+[yolo11s_coco_640] 3901/5000  median latency 17.8 ms  elapsed 1.2 min  ETA 0.3 min
+[yolo11s_coco_640] 4001/5000  median latency 17.8 ms  elapsed 1.2 min  ETA 0.3 min
+[yolo11s_coco_640] 4101/5000  median latency 17.8 ms  elapsed 1.3 min  ETA 0.3 min
+[yolo11s_coco_640] 4201/5000  median latency 17.8 ms  elapsed 1.3 min  ETA 0.2 min
+[yolo11s_coco_640] 4301/5000  median latency 17.8 ms  elapsed 1.3 min  ETA 0.2 min
+[yolo11s_coco_640] 4401/5000  median latency 17.8 ms  elapsed 1.3 min  ETA 0.2 min
+[yolo11s_coco_640] 4501/5000  median latency 17.8 ms  elapsed 1.4 min  ETA 0.2 min
+[yolo11s_coco_640] 4601/5000  median latency 17.8 ms  elapsed 1.4 min  ETA 0.1 min
+[yolo11s_coco_640] 4701/5000  median latency 17.8 ms  elapsed 1.4 min  ETA 0.1 min
+[yolo11s_coco_640] 4801/5000  median latency 17.8 ms  elapsed 1.5 min  ETA 0.1 min
+[yolo11s_coco_640] 4901/5000  median latency 17.8 ms  elapsed 1.5 min  ETA 0.0 min
+[yolo11s_coco_640] 5000/5000  median latency 17.8 ms  elapsed 1.5 min  ETA 0.0 min
+DONE yolo11s_coco_640  latency 17.8 ms  wall 1.5 min
+[yolo11m_coco_640] 1/5000  median latency 36.1 ms  elapsed 0.0 min  ETA 3.0 min
+[yolo11m_coco_640] 101/5000  median latency 36.2 ms  elapsed 0.1 min  ETA 3.3 min
+[yolo11m_coco_640] 201/5000  median latency 36.4 ms  elapsed 0.1 min  ETA 3.1 min
+[yolo11m_coco_640] 301/5000  median latency 36.4 ms  elapsed 0.2 min  ETA 3.0 min
+[yolo11m_coco_640] 401/5000  median latency 36.4 ms  elapsed 0.3 min  ETA 2.9 min
+[yolo11m_coco_640] 501/5000  median latency 36.4 ms  elapsed 0.3 min  ETA 2.9 min
+[yolo11m_coco_640] 601/5000  median latency 36.4 ms  elapsed 0.4 min  ETA 2.8 min
+[yolo11m_coco_640] 701/5000  median latency 36.4 ms  elapsed 0.4 min  ETA 2.7 min
+[yolo11m_coco_640] 801/5000  median latency 36.4 ms  elapsed 0.5 min  ETA 2.7 min
+[yolo11m_coco_640] 901/5000  median latency 36.4 ms  elapsed 0.6 min  ETA 2.6 min
+[yolo11m_coco_640] 1001/5000  median latency 36.4 ms  elapsed 0.6 min  ETA 2.5 min
+[yolo11m_coco_640] 1101/5000  median latency 36.4 ms  elapsed 0.7 min  ETA 2.5 min
+[yolo11m_coco_640] 1201/5000  median latency 36.4 ms  elapsed 0.8 min  ETA 2.4 min
+[yolo11m_coco_640] 1301/5000  median latency 36.4 ms  elapsed 0.8 min  ETA 2.3 min
+[yolo11m_coco_640] 1401/5000  median latency 36.4 ms  elapsed 0.9 min  ETA 2.3 min
+[yolo11m_coco_640] 1501/5000  median latency 36.4 ms  elapsed 0.9 min  ETA 2.2 min
+[yolo11m_coco_640] 1601/5000  median latency 36.4 ms  elapsed 1.0 min  ETA 2.1 min
+[yolo11m_coco_640] 1701/5000  median latency 36.4 ms  elapsed 1.1 min  ETA 2.1 min
+[yolo11m_coco_640] 1801/5000  median latency 36.4 ms  elapsed 1.1 min  ETA 2.0 min
+[yolo11m_coco_640] 1901/5000  median latency 36.4 ms  elapsed 1.2 min  ETA 1.9 min
+[yolo11m_coco_640] 2001/5000  median latency 36.4 ms  elapsed 1.3 min  ETA 1.9 min
+[yolo11m_coco_640] 2101/5000  median latency 36.4 ms  elapsed 1.3 min  ETA 1.8 min
+[yolo11m_coco_640] 2201/5000  median latency 36.4 ms  elapsed 1.4 min  ETA 1.8 min
+[yolo11m_coco_640] 2301/5000  median latency 36.4 ms  elapsed 1.4 min  ETA 1.7 min
+[yolo11m_coco_640] 2401/5000  median latency 36.4 ms  elapsed 1.5 min  ETA 1.6 min
+[yolo11m_coco_640] 2501/5000  median latency 36.4 ms  elapsed 1.6 min  ETA 1.6 min
+[yolo11m_coco_640] 2601/5000  median latency 36.4 ms  elapsed 1.6 min  ETA 1.5 min
+[yolo11m_coco_640] 2701/5000  median latency 36.4 ms  elapsed 1.7 min  ETA 1.4 min
+[yolo11m_coco_640] 2801/5000  median latency 36.4 ms  elapsed 1.8 min  ETA 1.4 min
+[yolo11m_coco_640] 2901/5000  median latency 36.4 ms  elapsed 1.8 min  ETA 1.3 min
+[yolo11m_coco_640] 3001/5000  median latency 36.4 ms  elapsed 1.9 min  ETA 1.3 min
+[yolo11m_coco_640] 3101/5000  median latency 36.4 ms  elapsed 1.9 min  ETA 1.2 min
+[yolo11m_coco_640] 3201/5000  median latency 36.4 ms  elapsed 2.0 min  ETA 1.1 min
+[yolo11m_coco_640] 3301/5000  median latency 36.4 ms  elapsed 2.1 min  ETA 1.1 min
+[yolo11m_coco_640] 3401/5000  median latency 36.4 ms  elapsed 2.1 min  ETA 1.0 min
+[yolo11m_coco_640] 3501/5000  median latency 36.4 ms  elapsed 2.2 min  ETA 0.9 min
+[yolo11m_coco_640] 3601/5000  median latency 36.4 ms  elapsed 2.3 min  ETA 0.9 min
+[yolo11m_coco_640] 3701/5000  median latency 36.4 ms  elapsed 2.3 min  ETA 0.8 min
+[yolo11m_coco_640] 3801/5000  median latency 36.4 ms  elapsed 2.4 min  ETA 0.8 min
+[yolo11m_coco_640] 3901/5000  median latency 36.4 ms  elapsed 2.4 min  ETA 0.7 min
+[yolo11m_coco_640] 4001/5000  median latency 36.4 ms  elapsed 2.5 min  ETA 0.6 min
+[yolo11m_coco_640] 4101/5000  median latency 36.4 ms  elapsed 2.6 min  ETA 0.6 min
+[yolo11m_coco_640] 4201/5000  median latency 36.4 ms  elapsed 2.6 min  ETA 0.5 min
+[yolo11m_coco_640] 4301/5000  median latency 36.4 ms  elapsed 2.7 min  ETA 0.4 min
+[yolo11m_coco_640] 4401/5000  median latency 36.4 ms  elapsed 2.8 min  ETA 0.4 min
+[yolo11m_coco_640] 4501/5000  median latency 36.4 ms  elapsed 2.8 min  ETA 0.3 min
+[yolo11m_coco_640] 4601/5000  median latency 36.4 ms  elapsed 2.9 min  ETA 0.2 min
+[yolo11m_coco_640] 4701/5000  median latency 36.4 ms  elapsed 2.9 min  ETA 0.2 min
+[yolo11m_coco_640] 4801/5000  median latency 36.4 ms  elapsed 3.0 min  ETA 0.1 min
+[yolo11m_coco_640] 4901/5000  median latency 36.4 ms  elapsed 3.1 min  ETA 0.1 min
+[yolo11m_coco_640] 5000/5000  median latency 36.4 ms  elapsed 3.2 min  ETA 0.0 min
+DONE yolo11m_coco_640  latency 36.4 ms  wall 3.2 min
+[rtdetr_l_coco_640] 1/5000  median latency 96.7 ms  elapsed 0.0 min  ETA 8.1 min
+[rtdetr_l_coco_640] 101/5000  median latency 112.6 ms  elapsed 0.2 min  ETA 9.0 min
+[rtdetr_l_coco_640] 201/5000  median latency 112.6 ms  elapsed 0.4 min  ETA 8.9 min
+[rtdetr_l_coco_640] 301/5000  median latency 112.1 ms  elapsed 0.6 min  ETA 8.7 min
+[rtdetr_l_coco_640] 401/5000  median latency 112.1 ms  elapsed 0.7 min  ETA 8.5 min
+[rtdetr_l_coco_640] 501/5000  median latency 112.1 ms  elapsed 0.9 min  ETA 8.3 min
+[rtdetr_l_coco_640] 601/5000  median latency 112.1 ms  elapsed 1.1 min  ETA 8.1 min
+[rtdetr_l_coco_640] 701/5000  median latency 112.1 ms  elapsed 1.3 min  ETA 7.9 min
+[rtdetr_l_coco_640] 801/5000  median latency 112.1 ms  elapsed 1.5 min  ETA 7.7 min
+[rtdetr_l_coco_640] 901/5000  median latency 112.1 ms  elapsed 1.6 min  ETA 7.5 min
+[rtdetr_l_coco_640] 1001/5000  median latency 112.1 ms  elapsed 1.8 min  ETA 7.3 min
+[rtdetr_l_coco_640] 1101/5000  median latency 112.1 ms  elapsed 2.0 min  ETA 7.1 min
+[rtdetr_l_coco_640] 1201/5000  median latency 112.1 ms  elapsed 2.2 min  ETA 6.9 min
+[rtdetr_l_coco_640] 1301/5000  median latency 112.1 ms  elapsed 2.4 min  ETA 6.7 min
+[rtdetr_l_coco_640] 1401/5000  median latency 112.1 ms  elapsed 2.6 min  ETA 6.6 min
+[rtdetr_l_coco_640] 1501/5000  median latency 112.1 ms  elapsed 2.7 min  ETA 6.4 min
+[rtdetr_l_coco_640] 1601/5000  median latency 112.1 ms  elapsed 2.9 min  ETA 6.2 min
+[rtdetr_l_coco_640] 1701/5000  median latency 112.1 ms  elapsed 3.1 min  ETA 6.0 min
+[rtdetr_l_coco_640] 1801/5000  median latency 112.1 ms  elapsed 3.3 min  ETA 5.8 min
+[rtdetr_l_coco_640] 1901/5000  median latency 112.1 ms  elapsed 3.4 min  ETA 5.6 min
+[rtdetr_l_coco_640] 2001/5000  median latency 112.1 ms  elapsed 3.5 min  ETA 5.3 min
+[rtdetr_l_coco_640] 2101/5000  median latency 112.1 ms  elapsed 3.7 min  ETA 5.0 min
+[rtdetr_l_coco_640] 2201/5000  median latency 112.1 ms  elapsed 3.8 min  ETA 4.8 min
+[rtdetr_l_coco_640] 2301/5000  median latency 112.1 ms  elapsed 3.9 min  ETA 4.5 min
+[rtdetr_l_coco_640] 2401/5000  median latency 112.1 ms  elapsed 4.0 min  ETA 4.3 min
+[rtdetr_l_coco_640] 2501/5000  median latency 112.1 ms  elapsed 4.1 min  ETA 4.1 min
+[rtdetr_l_coco_640] 2601/5000  median latency 112.1 ms  elapsed 4.2 min  ETA 3.9 min
+[rtdetr_l_coco_640] 2701/5000  median latency 112.1 ms  elapsed 4.4 min  ETA 3.7 min
+[rtdetr_l_coco_640] 2801/5000  median latency 112.1 ms  elapsed 4.5 min  ETA 3.6 min
+[rtdetr_l_coco_640] 2901/5000  median latency 112.1 ms  elapsed 4.7 min  ETA 3.4 min
+[rtdetr_l_coco_640] 3001/5000  median latency 112.1 ms  elapsed 4.9 min  ETA 3.2 min
+[rtdetr_l_coco_640] 3101/5000  median latency 112.1 ms  elapsed 5.0 min  ETA 3.1 min
+[rtdetr_l_coco_640] 3201/5000  median latency 112.1 ms  elapsed 5.2 min  ETA 2.9 min
+[rtdetr_l_coco_640] 3301/5000  median latency 112.1 ms  elapsed 5.4 min  ETA 2.8 min
+[rtdetr_l_coco_640] 3401/5000  median latency 112.1 ms  elapsed 5.5 min  ETA 2.6 min
+[rtdetr_l_coco_640] 3501/5000  median latency 112.1 ms  elapsed 5.7 min  ETA 2.4 min
+[rtdetr_l_coco_640] 3601/5000  median latency 112.1 ms  elapsed 5.9 min  ETA 2.3 min
+[rtdetr_l_coco_640] 3701/5000  median latency 112.1 ms  elapsed 6.0 min  ETA 2.1 min
+[rtdetr_l_coco_640] 3801/5000  median latency 112.1 ms  elapsed 6.2 min  ETA 2.0 min
+[rtdetr_l_coco_640] 3901/5000  median latency 112.1 ms  elapsed 6.4 min  ETA 1.8 min
+[rtdetr_l_coco_640] 4001/5000  median latency 112.1 ms  elapsed 6.5 min  ETA 1.6 min
+[rtdetr_l_coco_640] 4101/5000  median latency 112.1 ms  elapsed 6.7 min  ETA 1.5 min
+[rtdetr_l_coco_640] 4201/5000  median latency 112.1 ms  elapsed 6.9 min  ETA 1.3 min
+[rtdetr_l_coco_640] 4301/5000  median latency 112.1 ms  elapsed 7.0 min  ETA 1.1 min
+[rtdetr_l_coco_640] 4401/5000  median latency 112.1 ms  elapsed 7.2 min  ETA 1.0 min
+[rtdetr_l_coco_640] 4501/5000  median latency 112.1 ms  elapsed 7.4 min  ETA 0.8 min
+[rtdetr_l_coco_640] 4601/5000  median latency 112.1 ms  elapsed 7.5 min  ETA 0.7 min
+[rtdetr_l_coco_640] 4701/5000  median latency 112.1 ms  elapsed 7.7 min  ETA 0.5 min
+[rtdetr_l_coco_640] 4801/5000  median latency 112.1 ms  elapsed 7.9 min  ETA 0.3 min
+[rtdetr_l_coco_640] 4901/5000  median latency 112.1 ms  elapsed 8.0 min  ETA 0.2 min
+[rtdetr_l_coco_640] 5000/5000  median latency 112.1 ms  elapsed 8.2 min  ETA 0.0 min
+DONE rtdetr_l_coco_640  latency 112.1 ms  wall 8.2 min
+/Users/talina/workspace/sjsu/cmpe-249/hw_detection/.venv/lib/python3.13/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+[yoloworld_s_coco_640] 1/5000  median latency 29.1 ms  elapsed 0.0 min  ETA 2.4 min
+[yoloworld_s_coco_640] 101/5000  median latency 33.8 ms  elapsed 0.1 min  ETA 3.0 min
+[yoloworld_s_coco_640] 201/5000  median latency 33.8 ms  elapsed 0.1 min  ETA 2.8 min
+[yoloworld_s_coco_640] 301/5000  median latency 33.7 ms  elapsed 0.2 min  ETA 2.8 min
+[yoloworld_s_coco_640] 401/5000  median latency 33.7 ms  elapsed 0.2 min  ETA 2.7 min
+[yoloworld_s_coco_640] 501/5000  median latency 33.7 ms  elapsed 0.3 min  ETA 2.5 min
+[yoloworld_s_coco_640] 601/5000  median latency 33.7 ms  elapsed 0.3 min  ETA 2.5 min
+[yoloworld_s_coco_640] 701/5000  median latency 33.7 ms  elapsed 0.4 min  ETA 2.4 min
+[yoloworld_s_coco_640] 801/5000  median latency 33.7 ms  elapsed 0.4 min  ETA 2.4 min
+[yoloworld_s_coco_640] 901/5000  median latency 33.7 ms  elapsed 0.5 min  ETA 2.3 min
+[yoloworld_s_coco_640] 1001/5000  median latency 33.7 ms  elapsed 0.6 min  ETA 2.3 min
+[yoloworld_s_coco_640] 1101/5000  median latency 33.7 ms  elapsed 0.6 min  ETA 2.2 min
+[yoloworld_s_coco_640] 1201/5000  median latency 33.7 ms  elapsed 0.7 min  ETA 2.1 min
+[yoloworld_s_coco_640] 1301/5000  median latency 33.7 ms  elapsed 0.7 min  ETA 2.1 min
+[yoloworld_s_coco_640] 1401/5000  median latency 33.7 ms  elapsed 0.8 min  ETA 2.0 min
+[yoloworld_s_coco_640] 1501/5000  median latency 33.7 ms  elapsed 0.8 min  ETA 2.0 min
+[yoloworld_s_coco_640] 1601/5000  median latency 33.7 ms  elapsed 0.9 min  ETA 1.9 min
+[yoloworld_s_coco_640] 1701/5000  median latency 33.7 ms  elapsed 1.0 min  ETA 1.9 min
+[yoloworld_s_coco_640] 1801/5000  median latency 33.7 ms  elapsed 1.0 min  ETA 1.8 min
+[yoloworld_s_coco_640] 1901/5000  median latency 33.7 ms  elapsed 1.1 min  ETA 1.7 min
+[yoloworld_s_coco_640] 2001/5000  median latency 33.7 ms  elapsed 1.1 min  ETA 1.7 min
+[yoloworld_s_coco_640] 2101/5000  median latency 33.7 ms  elapsed 1.2 min  ETA 1.6 min
+[yoloworld_s_coco_640] 2201/5000  median latency 33.7 ms  elapsed 1.2 min  ETA 1.6 min
+[yoloworld_s_coco_640] 2301/5000  median latency 33.7 ms  elapsed 1.3 min  ETA 1.5 min
+[yoloworld_s_coco_640] 2401/5000  median latency 33.7 ms  elapsed 1.4 min  ETA 1.5 min
+[yoloworld_s_coco_640] 2501/5000  median latency 33.7 ms  elapsed 1.4 min  ETA 1.4 min
+[yoloworld_s_coco_640] 2601/5000  median latency 33.7 ms  elapsed 1.5 min  ETA 1.4 min
+[yoloworld_s_coco_640] 2701/5000  median latency 33.7 ms  elapsed 1.5 min  ETA 1.3 min
+[yoloworld_s_coco_640] 2801/5000  median latency 33.7 ms  elapsed 1.6 min  ETA 1.2 min
+[yoloworld_s_coco_640] 2901/5000  median latency 33.7 ms  elapsed 1.6 min  ETA 1.2 min
+[yoloworld_s_coco_640] 3001/5000  median latency 33.7 ms  elapsed 1.7 min  ETA 1.1 min
+[yoloworld_s_coco_640] 3101/5000  median latency 33.7 ms  elapsed 1.7 min  ETA 1.1 min
+[yoloworld_s_coco_640] 3201/5000  median latency 33.7 ms  elapsed 1.8 min  ETA 1.0 min
+[yoloworld_s_coco_640] 3301/5000  median latency 33.7 ms  elapsed 1.8 min  ETA 1.0 min
+[yoloworld_s_coco_640] 3401/5000  median latency 33.7 ms  elapsed 1.9 min  ETA 0.9 min
+[yoloworld_s_coco_640] 3501/5000  median latency 33.7 ms  elapsed 2.0 min  ETA 0.8 min
+[yoloworld_s_coco_640] 3601/5000  median latency 33.7 ms  elapsed 2.0 min  ETA 0.8 min
+[yoloworld_s_coco_640] 3701/5000  median latency 33.7 ms  elapsed 2.1 min  ETA 0.7 min
+[yoloworld_s_coco_640] 3801/5000  median latency 33.7 ms  elapsed 2.1 min  ETA 0.7 min
+[yoloworld_s_coco_640] 3901/5000  median latency 33.7 ms  elapsed 2.2 min  ETA 0.6 min
+[yoloworld_s_coco_640] 4001/5000  median latency 33.7 ms  elapsed 2.2 min  ETA 0.6 min
+[yoloworld_s_coco_640] 4101/5000  median latency 33.7 ms  elapsed 2.3 min  ETA 0.5 min
+[yoloworld_s_coco_640] 4201/5000  median latency 33.7 ms  elapsed 2.4 min  ETA 0.4 min
+[yoloworld_s_coco_640] 4301/5000  median latency 33.7 ms  elapsed 2.4 min  ETA 0.4 min
+[yoloworld_s_coco_640] 4401/5000  median latency 33.7 ms  elapsed 2.5 min  ETA 0.3 min
+[yoloworld_s_coco_640] 4501/5000  median latency 33.7 ms  elapsed 2.5 min  ETA 0.3 min
+[yoloworld_s_coco_640] 4601/5000  median latency 33.7 ms  elapsed 2.6 min  ETA 0.2 min
+[yoloworld_s_coco_640] 4701/5000  median latency 33.7 ms  elapsed 2.6 min  ETA 0.2 min
+[yoloworld_s_coco_640] 4801/5000  median latency 33.7 ms  elapsed 2.7 min  ETA 0.1 min
+[yoloworld_s_coco_640] 4901/5000  median latency 33.7 ms  elapsed 2.7 min  ETA 0.1 min
+[yoloworld_s_coco_640] 5000/5000  median latency 33.7 ms  elapsed 2.8 min  ETA 0.0 min
+DONE yoloworld_s_coco_640  latency 33.7 ms  wall 2.8 min
+[frcnn_r50v2_coco_tv] 1/5000  median latency 515.5 ms  elapsed 0.0 min  ETA 43.0 min
+[frcnn_r50v2_coco_tv] 101/5000  median latency 422.7 ms  elapsed 0.7 min  ETA 33.7 min
+[frcnn_r50v2_coco_tv] 201/5000  median latency 382.1 ms  elapsed 1.3 min  ETA 31.8 min
+[frcnn_r50v2_coco_tv] 301/5000  median latency 372.6 ms  elapsed 1.9 min  ETA 30.4 min
+[frcnn_r50v2_coco_tv] 401/5000  median latency 372.6 ms  elapsed 2.5 min  ETA 28.6 min
+[frcnn_r50v2_coco_tv] 501/5000  median latency 372.6 ms  elapsed 3.0 min  ETA 27.1 min
+[frcnn_r50v2_coco_tv] 601/5000  median latency 372.6 ms  elapsed 3.5 min  ETA 25.8 min
+[frcnn_r50v2_coco_tv] 701/5000  median latency 372.6 ms  elapsed 4.0 min  ETA 24.8 min
+[frcnn_r50v2_coco_tv] 801/5000  median latency 372.6 ms  elapsed 4.6 min  ETA 23.9 min
+[frcnn_r50v2_coco_tv] 901/5000  median latency 372.6 ms  elapsed 5.1 min  ETA 23.1 min
+[frcnn_r50v2_coco_tv] 1001/5000  median latency 372.6 ms  elapsed 5.6 min  ETA 22.4 min
+[frcnn_r50v2_coco_tv] 1101/5000  median latency 372.6 ms  elapsed 6.1 min  ETA 21.6 min
+[frcnn_r50v2_coco_tv] 1201/5000  median latency 372.6 ms  elapsed 6.6 min  ETA 21.0 min
+[frcnn_r50v2_coco_tv] 1301/5000  median latency 372.6 ms  elapsed 7.1 min  ETA 20.3 min
+[frcnn_r50v2_coco_tv] 1401/5000  median latency 372.6 ms  elapsed 7.6 min  ETA 19.7 min
+[frcnn_r50v2_coco_tv] 1501/5000  median latency 372.6 ms  elapsed 8.2 min  ETA 19.0 min
+[frcnn_r50v2_coco_tv] 1601/5000  median latency 372.6 ms  elapsed 8.7 min  ETA 18.4 min
+[frcnn_r50v2_coco_tv] 1701/5000  median latency 372.6 ms  elapsed 9.2 min  ETA 17.8 min
+[frcnn_r50v2_coco_tv] 1801/5000  median latency 372.6 ms  elapsed 9.7 min  ETA 17.2 min
+[frcnn_r50v2_coco_tv] 1901/5000  median latency 372.6 ms  elapsed 10.2 min  ETA 16.6 min
+[frcnn_r50v2_coco_tv] 2001/5000  median latency 372.6 ms  elapsed 10.7 min  ETA 16.0 min
+[frcnn_r50v2_coco_tv] 2101/5000  median latency 372.6 ms  elapsed 11.2 min  ETA 15.5 min
+[frcnn_r50v2_coco_tv] 2201/5000  median latency 372.6 ms  elapsed 11.7 min  ETA 14.9 min
+[frcnn_r50v2_coco_tv] 2301/5000  median latency 372.6 ms  elapsed 12.2 min  ETA 14.3 min
+[frcnn_r50v2_coco_tv] 2401/5000  median latency 372.6 ms  elapsed 12.7 min  ETA 13.8 min
+[frcnn_r50v2_coco_tv] 2501/5000  median latency 372.6 ms  elapsed 13.2 min  ETA 13.2 min
+[frcnn_r50v2_coco_tv] 2601/5000  median latency 372.6 ms  elapsed 13.7 min  ETA 12.7 min
+[frcnn_r50v2_coco_tv] 2701/5000  median latency 372.6 ms  elapsed 14.2 min  ETA 12.1 min
+[frcnn_r50v2_coco_tv] 2801/5000  median latency 372.6 ms  elapsed 14.7 min  ETA 11.6 min
+[frcnn_r50v2_coco_tv] 2901/5000  median latency 372.6 ms  elapsed 15.3 min  ETA 11.0 min
+[frcnn_r50v2_coco_tv] 3001/5000  median latency 372.6 ms  elapsed 15.8 min  ETA 10.5 min
+[frcnn_r50v2_coco_tv] 3101/5000  median latency 372.6 ms  elapsed 16.3 min  ETA 10.0 min
+[frcnn_r50v2_coco_tv] 3201/5000  median latency 372.6 ms  elapsed 16.8 min  ETA 9.4 min
+[frcnn_r50v2_coco_tv] 3301/5000  median latency 372.6 ms  elapsed 17.3 min  ETA 8.9 min
+[frcnn_r50v2_coco_tv] 3401/5000  median latency 372.6 ms  elapsed 17.8 min  ETA 8.4 min
+[frcnn_r50v2_coco_tv] 3501/5000  median latency 372.6 ms  elapsed 18.3 min  ETA 7.8 min
+[frcnn_r50v2_coco_tv] 3601/5000  median latency 372.6 ms  elapsed 18.8 min  ETA 7.3 min
+[frcnn_r50v2_coco_tv] 3701/5000  median latency 372.6 ms  elapsed 19.3 min  ETA 6.8 min
+[frcnn_r50v2_coco_tv] 3801/5000  median latency 372.6 ms  elapsed 19.8 min  ETA 6.3 min
+[frcnn_r50v2_coco_tv] 3901/5000  median latency 372.6 ms  elapsed 20.3 min  ETA 5.7 min
+[frcnn_r50v2_coco_tv] 4001/5000  median latency 372.6 ms  elapsed 20.8 min  ETA 5.2 min
+[frcnn_r50v2_coco_tv] 4101/5000  median latency 372.6 ms  elapsed 21.4 min  ETA 4.7 min
+[frcnn_r50v2_coco_tv] 4201/5000  median latency 372.6 ms  elapsed 21.9 min  ETA 4.2 min
+[frcnn_r50v2_coco_tv] 4301/5000  median latency 372.6 ms  elapsed 22.4 min  ETA 3.6 min
+[frcnn_r50v2_coco_tv] 4401/5000  median latency 372.6 ms  elapsed 22.9 min  ETA 3.1 min
+[frcnn_r50v2_coco_tv] 4501/5000  median latency 372.6 ms  elapsed 23.5 min  ETA 2.6 min
+[frcnn_r50v2_coco_tv] 4601/5000  median latency 372.6 ms  elapsed 24.0 min  ETA 2.1 min
+[frcnn_r50v2_coco_tv] 4701/5000  median latency 372.6 ms  elapsed 24.6 min  ETA 1.6 min
+[frcnn_r50v2_coco_tv] 4801/5000  median latency 372.6 ms  elapsed 25.1 min  ETA 1.0 min
+[frcnn_r50v2_coco_tv] 4901/5000  median latency 372.6 ms  elapsed 25.6 min  ETA 0.5 min
+[frcnn_r50v2_coco_tv] 5000/5000  median latency 372.6 ms  elapsed 26.1 min  ETA 0.0 min
+DONE frcnn_r50v2_coco_tv  latency 372.6 ms  wall 26.1 min
+[fcos_r50_coco_tv] 1/5000  median latency 226.7 ms  elapsed 0.0 min  ETA 18.9 min
+[fcos_r50_coco_tv] 101/5000  median latency 222.0 ms  elapsed 0.4 min  ETA 17.6 min
+[fcos_r50_coco_tv] 201/5000  median latency 221.6 ms  elapsed 0.7 min  ETA 17.1 min
+[fcos_r50_coco_tv] 301/5000  median latency 220.3 ms  elapsed 1.1 min  ETA 16.7 min
+[fcos_r50_coco_tv] 401/5000  median latency 220.3 ms  elapsed 1.4 min  ETA 16.2 min
+[fcos_r50_coco_tv] 501/5000  median latency 220.3 ms  elapsed 1.8 min  ETA 15.8 min
+[fcos_r50_coco_tv] 601/5000  median latency 220.3 ms  elapsed 2.1 min  ETA 15.5 min
+[fcos_r50_coco_tv] 701/5000  median latency 220.3 ms  elapsed 2.5 min  ETA 15.1 min
+[fcos_r50_coco_tv] 801/5000  median latency 220.3 ms  elapsed 2.8 min  ETA 14.8 min
+[fcos_r50_coco_tv] 901/5000  median latency 220.3 ms  elapsed 3.2 min  ETA 14.4 min
+[fcos_r50_coco_tv] 1001/5000  median latency 220.3 ms  elapsed 3.5 min  ETA 14.1 min
+[fcos_r50_coco_tv] 1101/5000  median latency 220.3 ms  elapsed 3.9 min  ETA 13.7 min
+[fcos_r50_coco_tv] 1201/5000  median latency 220.3 ms  elapsed 4.2 min  ETA 13.4 min
+[fcos_r50_coco_tv] 1301/5000  median latency 220.3 ms  elapsed 4.6 min  ETA 13.0 min
+[fcos_r50_coco_tv] 1401/5000  median latency 220.3 ms  elapsed 4.9 min  ETA 12.6 min
+[fcos_r50_coco_tv] 1501/5000  median latency 220.3 ms  elapsed 5.3 min  ETA 12.3 min
+[fcos_r50_coco_tv] 1601/5000  median latency 220.3 ms  elapsed 5.6 min  ETA 11.9 min
+[fcos_r50_coco_tv] 1701/5000  median latency 220.3 ms  elapsed 6.0 min  ETA 11.6 min
+[fcos_r50_coco_tv] 1801/5000  median latency 220.3 ms  elapsed 6.3 min  ETA 11.2 min
+[fcos_r50_coco_tv] 1901/5000  median latency 220.3 ms  elapsed 6.7 min  ETA 10.9 min
+[fcos_r50_coco_tv] 2001/5000  median latency 220.3 ms  elapsed 7.0 min  ETA 10.5 min
+[fcos_r50_coco_tv] 2101/5000  median latency 220.3 ms  elapsed 7.4 min  ETA 10.2 min
+[fcos_r50_coco_tv] 2201/5000  median latency 220.3 ms  elapsed 7.7 min  ETA 9.8 min
+[fcos_r50_coco_tv] 2301/5000  median latency 220.3 ms  elapsed 8.1 min  ETA 9.5 min
+[fcos_r50_coco_tv] 2401/5000  median latency 220.3 ms  elapsed 8.4 min  ETA 9.1 min
+[fcos_r50_coco_tv] 2501/5000  median latency 220.3 ms  elapsed 8.9 min  ETA 8.9 min
+[fcos_r50_coco_tv] 2601/5000  median latency 220.3 ms  elapsed 9.5 min  ETA 8.7 min
+[fcos_r50_coco_tv] 2701/5000  median latency 220.3 ms  elapsed 10.0 min  ETA 8.5 min
+[fcos_r50_coco_tv] 2801/5000  median latency 220.3 ms  elapsed 10.5 min  ETA 8.3 min
+[fcos_r50_coco_tv] 2901/5000  median latency 220.3 ms  elapsed 11.0 min  ETA 8.0 min
+[fcos_r50_coco_tv] 3001/5000  median latency 220.3 ms  elapsed 11.6 min  ETA 7.7 min
+[fcos_r50_coco_tv] 3101/5000  median latency 220.3 ms  elapsed 12.1 min  ETA 7.4 min
+[fcos_r50_coco_tv] 3201/5000  median latency 220.3 ms  elapsed 12.6 min  ETA 7.1 min
+[fcos_r50_coco_tv] 3301/5000  median latency 220.3 ms  elapsed 13.2 min  ETA 6.8 min
+[fcos_r50_coco_tv] 3401/5000  median latency 220.3 ms  elapsed 13.7 min  ETA 6.4 min
+[fcos_r50_coco_tv] 3501/5000  median latency 220.3 ms  elapsed 14.2 min  ETA 6.1 min
+[fcos_r50_coco_tv] 3601/5000  median latency 220.3 ms  elapsed 14.7 min  ETA 5.7 min
+[fcos_r50_coco_tv] 3701/5000  median latency 220.3 ms  elapsed 15.2 min  ETA 5.3 min
+[fcos_r50_coco_tv] 3801/5000  median latency 220.3 ms  elapsed 15.8 min  ETA 5.0 min
+[fcos_r50_coco_tv] 3901/5000  median latency 220.3 ms  elapsed 16.3 min  ETA 4.6 min
+[fcos_r50_coco_tv] 4001/5000  median latency 220.3 ms  elapsed 16.8 min  ETA 4.2 min
+[fcos_r50_coco_tv] 4101/5000  median latency 220.3 ms  elapsed 17.3 min  ETA 3.8 min
+[fcos_r50_coco_tv] 4201/5000  median latency 220.3 ms  elapsed 17.9 min  ETA 3.4 min
+[fcos_r50_coco_tv] 4301/5000  median latency 220.3 ms  elapsed 18.4 min  ETA 3.0 min
+[fcos_r50_coco_tv] 4401/5000  median latency 220.3 ms  elapsed 18.9 min  ETA 2.6 min
+[fcos_r50_coco_tv] 4501/5000  median latency 220.3 ms  elapsed 19.4 min  ETA 2.2 min
+[fcos_r50_coco_tv] 4601/5000  median latency 220.3 ms  elapsed 19.9 min  ETA 1.7 min
+[fcos_r50_coco_tv] 4701/5000  median latency 220.3 ms  elapsed 20.5 min  ETA 1.3 min
+[fcos_r50_coco_tv] 4801/5000  median latency 220.3 ms  elapsed 21.0 min  ETA 0.9 min
+[fcos_r50_coco_tv] 4901/5000  median latency 220.3 ms  elapsed 21.5 min  ETA 0.4 min
+[fcos_r50_coco_tv] 5000/5000  median latency 220.3 ms  elapsed 22.0 min  ETA 0.0 min
+DONE fcos_r50_coco_tv  latency 220.3 ms  wall 22.0 min
+[yolo11n_kitti_640] 1/1496  median latency 8.1 ms  elapsed 0.0 min  ETA 0.2 min
+[yolo11n_kitti_640] 101/1496  median latency 10.2 ms  elapsed 0.0 min  ETA 0.2 min
+[yolo11n_kitti_640] 201/1496  median latency 10.0 ms  elapsed 0.0 min  ETA 0.2 min
+[yolo11n_kitti_640] 301/1496  median latency 10.0 ms  elapsed 0.1 min  ETA 0.2 min
+[yolo11n_kitti_640] 401/1496  median latency 10.0 ms  elapsed 0.1 min  ETA 0.2 min
+[yolo11n_kitti_640] 501/1496  median latency 10.0 ms  elapsed 0.1 min  ETA 0.2 min
+[yolo11n_kitti_640] 601/1496  median latency 10.0 ms  elapsed 0.1 min  ETA 0.1 min
+[yolo11n_kitti_640] 701/1496  median latency 10.0 ms  elapsed 0.1 min  ETA 0.1 min
+[yolo11n_kitti_640] 801/1496  median latency 10.0 ms  elapsed 0.1 min  ETA 0.1 min
+[yolo11n_kitti_640] 901/1496  median latency 10.0 ms  elapsed 0.1 min  ETA 0.1 min
+[yolo11n_kitti_640] 1001/1496  median latency 10.0 ms  elapsed 0.2 min  ETA 0.1 min
+[yolo11n_kitti_640] 1101/1496  median latency 10.0 ms  elapsed 0.2 min  ETA 0.1 min
+[yolo11n_kitti_640] 1201/1496  median latency 10.0 ms  elapsed 0.2 min  ETA 0.0 min
+[yolo11n_kitti_640] 1301/1496  median latency 10.0 ms  elapsed 0.2 min  ETA 0.0 min
+[yolo11n_kitti_640] 1401/1496  median latency 10.0 ms  elapsed 0.2 min  ETA 0.0 min
+[yolo11n_kitti_640] 1496/1496  median latency 10.0 ms  elapsed 0.2 min  ETA 0.0 min
+DONE yolo11n_kitti_640  latency 10.0 ms  wall 0.2 min
+[yolo11s_kitti_640] 1/1496  median latency 10.1 ms  elapsed 0.0 min  ETA 0.3 min
+[yolo11s_kitti_640] 101/1496  median latency 9.9 ms  elapsed 0.0 min  ETA 0.2 min
+[yolo11s_kitti_640] 201/1496  median latency 9.9 ms  elapsed 0.0 min  ETA 0.2 min
+[yolo11s_kitti_640] 301/1496  median latency 9.9 ms  elapsed 0.1 min  ETA 0.2 min
+[yolo11s_kitti_640] 401/1496  median latency 9.9 ms  elapsed 0.1 min  ETA 0.2 min
+[yolo11s_kitti_640] 501/1496  median latency 9.9 ms  elapsed 0.1 min  ETA 0.2 min
+[yolo11s_kitti_640] 601/1496  median latency 9.9 ms  elapsed 0.1 min  ETA 0.2 min
+[yolo11s_kitti_640] 701/1496  median latency 9.9 ms  elapsed 0.1 min  ETA 0.2 min
+[yolo11s_kitti_640] 801/1496  median latency 9.9 ms  elapsed 0.2 min  ETA 0.1 min
+[yolo11s_kitti_640] 901/1496  median latency 9.9 ms  elapsed 0.2 min  ETA 0.1 min
+[yolo11s_kitti_640] 1001/1496  median latency 9.9 ms  elapsed 0.2 min  ETA 0.1 min
+[yolo11s_kitti_640] 1101/1496  median latency 9.9 ms  elapsed 0.2 min  ETA 0.1 min
+[yolo11s_kitti_640] 1201/1496  median latency 9.9 ms  elapsed 0.2 min  ETA 0.1 min
+[yolo11s_kitti_640] 1301/1496  median latency 9.9 ms  elapsed 0.3 min  ETA 0.0 min
+[yolo11s_kitti_640] 1401/1496  median latency 9.9 ms  elapsed 0.3 min  ETA 0.0 min
+[yolo11s_kitti_640] 1496/1496  median latency 9.9 ms  elapsed 0.3 min  ETA 0.0 min
+DONE yolo11s_kitti_640  latency 9.9 ms  wall 0.3 min
+[yolo11m_kitti_640] 1/1496  median latency 19.6 ms  elapsed 0.0 min  ETA 0.5 min
+[yolo11m_kitti_640] 101/1496  median latency 23.9 ms  elapsed 0.0 min  ETA 0.6 min
+[yolo11m_kitti_640] 201/1496  median latency 25.9 ms  elapsed 0.1 min  ETA 0.5 min
+[yolo11m_kitti_640] 301/1496  median latency 25.0 ms  elapsed 0.1 min  ETA 0.5 min
+[yolo11m_kitti_640] 401/1496  median latency 25.0 ms  elapsed 0.2 min  ETA 0.5 min
+[yolo11m_kitti_640] 501/1496  median latency 25.0 ms  elapsed 0.2 min  ETA 0.4 min
+[yolo11m_kitti_640] 601/1496  median latency 25.0 ms  elapsed 0.3 min  ETA 0.4 min
+[yolo11m_kitti_640] 701/1496  median latency 25.0 ms  elapsed 0.3 min  ETA 0.3 min
+[yolo11m_kitti_640] 801/1496  median latency 25.0 ms  elapsed 0.3 min  ETA 0.3 min
+[yolo11m_kitti_640] 901/1496  median latency 25.0 ms  elapsed 0.4 min  ETA 0.3 min
+[yolo11m_kitti_640] 1001/1496  median latency 25.0 ms  elapsed 0.4 min  ETA 0.2 min
+[yolo11m_kitti_640] 1101/1496  median latency 25.0 ms  elapsed 0.5 min  ETA 0.2 min
+[yolo11m_kitti_640] 1201/1496  median latency 25.0 ms  elapsed 0.5 min  ETA 0.1 min
+[yolo11m_kitti_640] 1301/1496  median latency 25.0 ms  elapsed 0.6 min  ETA 0.1 min
+[yolo11m_kitti_640] 1401/1496  median latency 25.0 ms  elapsed 0.6 min  ETA 0.0 min
+[yolo11m_kitti_640] 1496/1496  median latency 25.0 ms  elapsed 0.6 min  ETA 0.0 min
+DONE yolo11m_kitti_640  latency 25.0 ms  wall 0.6 min
+[rtdetr_l_kitti_640] 1/1496  median latency 73.2 ms  elapsed 0.0 min  ETA 1.8 min
+[rtdetr_l_kitti_640] 101/1496  median latency 84.6 ms  elapsed 0.1 min  ETA 2.0 min
+[rtdetr_l_kitti_640] 201/1496  median latency 83.9 ms  elapsed 0.3 min  ETA 1.9 min
+[rtdetr_l_kitti_640] 301/1496  median latency 84.3 ms  elapsed 0.4 min  ETA 1.7 min
+[rtdetr_l_kitti_640] 401/1496  median latency 84.3 ms  elapsed 0.6 min  ETA 1.6 min
+[rtdetr_l_kitti_640] 501/1496  median latency 84.3 ms  elapsed 0.7 min  ETA 1.4 min
+[rtdetr_l_kitti_640] 601/1496  median latency 84.3 ms  elapsed 0.9 min  ETA 1.3 min
+[rtdetr_l_kitti_640] 701/1496  median latency 84.3 ms  elapsed 1.0 min  ETA 1.1 min
+[rtdetr_l_kitti_640] 801/1496  median latency 84.3 ms  elapsed 1.2 min  ETA 1.0 min
+[rtdetr_l_kitti_640] 901/1496  median latency 84.3 ms  elapsed 1.3 min  ETA 0.9 min
+[rtdetr_l_kitti_640] 1001/1496  median latency 84.3 ms  elapsed 1.4 min  ETA 0.7 min
+[rtdetr_l_kitti_640] 1101/1496  median latency 84.3 ms  elapsed 1.6 min  ETA 0.6 min
+[rtdetr_l_kitti_640] 1201/1496  median latency 84.3 ms  elapsed 1.7 min  ETA 0.4 min
+[rtdetr_l_kitti_640] 1301/1496  median latency 84.3 ms  elapsed 1.9 min  ETA 0.3 min
+[rtdetr_l_kitti_640] 1401/1496  median latency 84.3 ms  elapsed 2.0 min  ETA 0.1 min
+[rtdetr_l_kitti_640] 1496/1496  median latency 84.3 ms  elapsed 2.2 min  ETA 0.0 min
+DONE rtdetr_l_kitti_640  latency 84.3 ms  wall 2.2 min
+/Users/talina/workspace/sjsu/cmpe-249/hw_detection/.venv/lib/python3.13/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+[yoloworld_s_kitti_640] 1/1496  median latency 12.2 ms  elapsed 0.0 min  ETA 0.3 min
+[yoloworld_s_kitti_640] 101/1496  median latency 13.2 ms  elapsed 0.0 min  ETA 0.3 min
+[yoloworld_s_kitti_640] 201/1496  median latency 14.0 ms  elapsed 0.0 min  ETA 0.3 min
+[yoloworld_s_kitti_640] 301/1496  median latency 14.7 ms  elapsed 0.1 min  ETA 0.3 min
+[yoloworld_s_kitti_640] 401/1496  median latency 14.7 ms  elapsed 0.1 min  ETA 0.3 min
+[yoloworld_s_kitti_640] 501/1496  median latency 14.7 ms  elapsed 0.1 min  ETA 0.3 min
+[yoloworld_s_kitti_640] 601/1496  median latency 14.7 ms  elapsed 0.2 min  ETA 0.2 min
+[yoloworld_s_kitti_640] 701/1496  median latency 14.7 ms  elapsed 0.2 min  ETA 0.2 min
+[yoloworld_s_kitti_640] 801/1496  median latency 14.7 ms  elapsed 0.2 min  ETA 0.2 min
+WARNING ⚠️ NMS time limit 2.050s exceeded
+[yoloworld_s_kitti_640] 901/1496  median latency 14.7 ms  elapsed 49.0 min  ETA 32.3 min
+[yoloworld_s_kitti_640] 1001/1496  median latency 14.7 ms  elapsed 49.0 min  ETA 24.2 min
+[yoloworld_s_kitti_640] 1101/1496  median latency 14.7 ms  elapsed 49.0 min  ETA 17.6 min
+[yoloworld_s_kitti_640] 1201/1496  median latency 14.7 ms  elapsed 49.0 min  ETA 12.0 min
+[yoloworld_s_kitti_640] 1301/1496  median latency 14.7 ms  elapsed 49.1 min  ETA 7.4 min
+[yoloworld_s_kitti_640] 1401/1496  median latency 14.7 ms  elapsed 49.1 min  ETA 3.3 min
+[yoloworld_s_kitti_640] 1496/1496  median latency 14.7 ms  elapsed 49.2 min  ETA 0.0 min
+DONE yoloworld_s_kitti_640  latency 14.7 ms  wall 49.2 min
+[frcnn_r50v2_kitti_tv] 1/1496  median latency 473.9 ms  elapsed 0.0 min  ETA 11.8 min
+[frcnn_r50v2_kitti_tv] 101/1496  median latency 351.9 ms  elapsed 0.6 min  ETA 8.7 min
+[frcnn_r50v2_kitti_tv] 201/1496  median latency 351.1 ms  elapsed 1.2 min  ETA 8.0 min
+[frcnn_r50v2_kitti_tv] 301/1496  median latency 356.0 ms  elapsed 1.9 min  ETA 7.6 min
+[frcnn_r50v2_kitti_tv] 401/1496  median latency 356.0 ms  elapsed 2.6 min  ETA 7.0 min
+[frcnn_r50v2_kitti_tv] 501/1496  median latency 356.0 ms  elapsed 3.2 min  ETA 6.3 min
+[frcnn_r50v2_kitti_tv] 601/1496  median latency 356.0 ms  elapsed 3.6 min  ETA 5.4 min
+[frcnn_r50v2_kitti_tv] 701/1496  median latency 356.0 ms  elapsed 4.0 min  ETA 4.6 min
+[frcnn_r50v2_kitti_tv] 801/1496  median latency 356.0 ms  elapsed 4.4 min  ETA 3.9 min
+[frcnn_r50v2_kitti_tv] 901/1496  median latency 356.0 ms  elapsed 4.9 min  ETA 3.2 min
+[frcnn_r50v2_kitti_tv] 1001/1496  median latency 356.0 ms  elapsed 5.3 min  ETA 2.6 min
+[frcnn_r50v2_kitti_tv] 1101/1496  median latency 356.0 ms  elapsed 5.7 min  ETA 2.0 min
+[frcnn_r50v2_kitti_tv] 1201/1496  median latency 356.0 ms  elapsed 6.1 min  ETA 1.5 min
+[frcnn_r50v2_kitti_tv] 1301/1496  median latency 356.0 ms  elapsed 6.6 min  ETA 1.0 min
+[frcnn_r50v2_kitti_tv] 1401/1496  median latency 356.0 ms  elapsed 7.0 min  ETA 0.5 min
+[frcnn_r50v2_kitti_tv] 1496/1496  median latency 356.0 ms  elapsed 7.4 min  ETA 0.0 min
+DONE frcnn_r50v2_kitti_tv  latency 356.0 ms  wall 7.4 min
+[fcos_r50_kitti_tv] 1/1496  median latency 146.0 ms  elapsed 0.0 min  ETA 3.6 min
+[fcos_r50_kitti_tv] 101/1496  median latency 142.1 ms  elapsed 0.2 min  ETA 3.3 min
+[fcos_r50_kitti_tv] 201/1496  median latency 142.5 ms  elapsed 0.5 min  ETA 3.1 min
+[fcos_r50_kitti_tv] 301/1496  median latency 142.8 ms  elapsed 0.7 min  ETA 2.9 min
+[fcos_r50_kitti_tv] 401/1496  median latency 142.8 ms  elapsed 1.0 min  ETA 2.7 min
+[fcos_r50_kitti_tv] 501/1496  median latency 142.8 ms  elapsed 1.2 min  ETA 2.4 min
+[fcos_r50_kitti_tv] 601/1496  median latency 142.8 ms  elapsed 1.5 min  ETA 2.2 min
+[fcos_r50_kitti_tv] 701/1496  median latency 142.8 ms  elapsed 1.7 min  ETA 1.9 min
+[fcos_r50_kitti_tv] 801/1496  median latency 142.8 ms  elapsed 1.9 min  ETA 1.7 min
+[fcos_r50_kitti_tv] 901/1496  median latency 142.8 ms  elapsed 2.2 min  ETA 1.4 min
+[fcos_r50_kitti_tv] 1001/1496  median latency 142.8 ms  elapsed 2.4 min  ETA 1.2 min
+[fcos_r50_kitti_tv] 1101/1496  median latency 142.8 ms  elapsed 2.7 min  ETA 1.0 min
+[fcos_r50_kitti_tv] 1201/1496  median latency 142.8 ms  elapsed 2.9 min  ETA 0.7 min
+[fcos_r50_kitti_tv] 1301/1496  median latency 142.8 ms  elapsed 3.1 min  ETA 0.5 min
+[fcos_r50_kitti_tv] 1401/1496  median latency 142.8 ms  elapsed 3.4 min  ETA 0.2 min
+[fcos_r50_kitti_tv] 1496/1496  median latency 142.8 ms  elapsed 3.6 min  ETA 0.0 min
+DONE fcos_r50_kitti_tv  latency 142.8 ms  wall 3.6 min
+[yolo11s_kitti_1280] 1/1496  median latency 25.4 ms  elapsed 0.0 min  ETA 0.6 min
+[yolo11s_kitti_1280] 101/1496  median latency 23.9 ms  elapsed 0.0 min  ETA 0.6 min
+[yolo11s_kitti_1280] 201/1496  median latency 23.9 ms  elapsed 0.1 min  ETA 0.5 min
+[yolo11s_kitti_1280] 301/1496  median latency 23.9 ms  elapsed 0.1 min  ETA 0.5 min
+[yolo11s_kitti_1280] 401/1496  median latency 23.9 ms  elapsed 0.2 min  ETA 0.4 min
+[yolo11s_kitti_1280] 501/1496  median latency 23.9 ms  elapsed 0.2 min  ETA 0.4 min
+[yolo11s_kitti_1280] 601/1496  median latency 23.9 ms  elapsed 0.2 min  ETA 0.4 min
+[yolo11s_kitti_1280] 701/1496  median latency 23.9 ms  elapsed 0.3 min  ETA 0.3 min
+[yolo11s_kitti_1280] 801/1496  median latency 23.9 ms  elapsed 0.3 min  ETA 0.3 min
+[yolo11s_kitti_1280] 901/1496  median latency 23.9 ms  elapsed 0.4 min  ETA 0.2 min
+[yolo11s_kitti_1280] 1001/1496  median latency 23.9 ms  elapsed 0.4 min  ETA 0.2 min
+[yolo11s_kitti_1280] 1101/1496  median latency 23.9 ms  elapsed 0.4 min  ETA 0.2 min
+[yolo11s_kitti_1280] 1201/1496  median latency 23.9 ms  elapsed 0.5 min  ETA 0.1 min
+[yolo11s_kitti_1280] 1301/1496  median latency 23.9 ms  elapsed 0.5 min  ETA 0.1 min
+[yolo11s_kitti_1280] 1401/1496  median latency 23.9 ms  elapsed 0.6 min  ETA 0.0 min
+[yolo11s_kitti_1280] 1496/1496  median latency 23.9 ms  elapsed 0.6 min  ETA 0.0 min
+DONE yolo11s_kitti_1280  latency 23.9 ms  wall 0.6 min
+[yolo11m_kitti_1280] 1/1496  median latency 58.1 ms  elapsed 0.0 min  ETA 1.5 min
+[yolo11m_kitti_1280] 101/1496  median latency 58.9 ms  elapsed 0.1 min  ETA 1.4 min
+[yolo11m_kitti_1280] 201/1496  median latency 58.8 ms  elapsed 0.2 min  ETA 1.3 min
+[yolo11m_kitti_1280] 301/1496  median latency 58.9 ms  elapsed 0.3 min  ETA 1.2 min
+[yolo11m_kitti_1280] 401/1496  median latency 58.9 ms  elapsed 0.4 min  ETA 1.1 min
+[yolo11m_kitti_1280] 501/1496  median latency 58.9 ms  elapsed 0.5 min  ETA 1.0 min
+[yolo11m_kitti_1280] 601/1496  median latency 58.9 ms  elapsed 0.6 min  ETA 0.9 min
+[yolo11m_kitti_1280] 701/1496  median latency 58.9 ms  elapsed 0.7 min  ETA 0.8 min
+[yolo11m_kitti_1280] 801/1496  median latency 58.9 ms  elapsed 0.8 min  ETA 0.7 min
+[yolo11m_kitti_1280] 901/1496  median latency 58.9 ms  elapsed 0.9 min  ETA 0.6 min
+[yolo11m_kitti_1280] 1001/1496  median latency 58.9 ms  elapsed 1.0 min  ETA 0.5 min
+[yolo11m_kitti_1280] 1101/1496  median latency 58.9 ms  elapsed 1.1 min  ETA 0.4 min
+[yolo11m_kitti_1280] 1201/1496  median latency 58.9 ms  elapsed 1.2 min  ETA 0.3 min
+[yolo11m_kitti_1280] 1301/1496  median latency 58.9 ms  elapsed 1.3 min  ETA 0.2 min
+[yolo11m_kitti_1280] 1401/1496  median latency 58.9 ms  elapsed 1.4 min  ETA 0.1 min
+[yolo11m_kitti_1280] 1496/1496  median latency 58.9 ms  elapsed 1.5 min  ETA 0.0 min
+DONE yolo11m_kitti_1280  latency 58.9 ms  wall 1.5 min
+[rtdetr_l_kitti_1280] 1/1496  median latency 209.4 ms  elapsed 0.0 min  ETA 5.2 min
+[rtdetr_l_kitti_1280] 101/1496  median latency 210.2 ms  elapsed 0.4 min  ETA 4.9 min
+[rtdetr_l_kitti_1280] 201/1496  median latency 211.1 ms  elapsed 0.7 min  ETA 4.6 min
+[rtdetr_l_kitti_1280] 301/1496  median latency 211.5 ms  elapsed 1.1 min  ETA 4.3 min
+[rtdetr_l_kitti_1280] 401/1496  median latency 211.5 ms  elapsed 1.4 min  ETA 3.9 min
+[rtdetr_l_kitti_1280] 501/1496  median latency 211.5 ms  elapsed 1.8 min  ETA 3.5 min
+[rtdetr_l_kitti_1280] 601/1496  median latency 211.5 ms  elapsed 2.2 min  ETA 3.3 min
+[rtdetr_l_kitti_1280] 701/1496  median latency 211.5 ms  elapsed 2.8 min  ETA 3.1 min
+[rtdetr_l_kitti_1280] 801/1496  median latency 211.5 ms  elapsed 3.3 min  ETA 2.8 min
+[rtdetr_l_kitti_1280] 901/1496  median latency 211.5 ms  elapsed 3.8 min  ETA 2.5 min
+[rtdetr_l_kitti_1280] 1001/1496  median latency 211.5 ms  elapsed 4.3 min  ETA 2.1 min
+[rtdetr_l_kitti_1280] 1101/1496  median latency 211.5 ms  elapsed 4.9 min  ETA 1.8 min
+[rtdetr_l_kitti_1280] 1201/1496  median latency 211.5 ms  elapsed 5.4 min  ETA 1.3 min
+[rtdetr_l_kitti_1280] 1301/1496  median latency 211.5 ms  elapsed 6.0 min  ETA 0.9 min
+[rtdetr_l_kitti_1280] 1401/1496  median latency 211.5 ms  elapsed 6.3 min  ETA 0.4 min
+[rtdetr_l_kitti_1280] 1496/1496  median latency 211.5 ms  elapsed 6.7 min  ETA 0.0 min
+DONE rtdetr_l_kitti_1280  latency 211.5 ms  wall 6.7 min
+/Users/talina/workspace/sjsu/cmpe-249/hw_detection/.venv/lib/python3.13/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+[yoloworld_s_kitti_1280] 1/1496  median latency 28.8 ms  elapsed 0.0 min  ETA 0.7 min
+[yoloworld_s_kitti_1280] 101/1496  median latency 28.9 ms  elapsed 0.0 min  ETA 0.7 min
+[yoloworld_s_kitti_1280] 201/1496  median latency 28.9 ms  elapsed 0.1 min  ETA 0.6 min
+[yoloworld_s_kitti_1280] 301/1496  median latency 28.9 ms  elapsed 0.1 min  ETA 0.6 min
+[yoloworld_s_kitti_1280] 401/1496  median latency 28.9 ms  elapsed 0.2 min  ETA 0.5 min
+[yoloworld_s_kitti_1280] 501/1496  median latency 28.9 ms  elapsed 0.2 min  ETA 0.5 min
+[yoloworld_s_kitti_1280] 601/1496  median latency 28.9 ms  elapsed 0.3 min  ETA 0.4 min
+[yoloworld_s_kitti_1280] 701/1496  median latency 28.9 ms  elapsed 0.3 min  ETA 0.4 min
+[yoloworld_s_kitti_1280] 801/1496  median latency 28.9 ms  elapsed 0.4 min  ETA 0.3 min
+[yoloworld_s_kitti_1280] 901/1496  median latency 28.9 ms  elapsed 0.4 min  ETA 0.3 min
+[yoloworld_s_kitti_1280] 1001/1496  median latency 28.9 ms  elapsed 0.5 min  ETA 0.2 min
+[yoloworld_s_kitti_1280] 1101/1496  median latency 28.9 ms  elapsed 0.5 min  ETA 0.2 min
+[yoloworld_s_kitti_1280] 1201/1496  median latency 28.9 ms  elapsed 0.6 min  ETA 0.1 min
+[yoloworld_s_kitti_1280] 1301/1496  median latency 28.9 ms  elapsed 0.6 min  ETA 0.1 min
+[yoloworld_s_kitti_1280] 1401/1496  median latency 28.9 ms  elapsed 0.7 min  ETA 0.0 min
+[yoloworld_s_kitti_1280] 1496/1496  median latency 28.9 ms  elapsed 0.7 min  ETA 0.0 min
+DONE yoloworld_s_kitti_1280  latency 28.9 ms  wall 0.7 min
+rtdetr_l_coco_640                mAP 0.526  AP50 0.709  AP75 0.570  S/M/L 0.339/0.573/0.707  AR100 0.690  112.1 ms
+yolo11m_coco_640                 mAP 0.505  AP50 0.670  AP75 0.549  S/M/L 0.325/0.559/0.664  AR100 0.650  36.4 ms
+yolo11n_coco_640                 mAP 0.385  AP50 0.538  AP75 0.420  S/M/L 0.189/0.423/0.560  AR100 0.540  12.8 ms
+yolo11s_coco_640                 mAP 0.455  AP50 0.620  AP75 0.492  S/M/L 0.276/0.501/0.625  AR100 0.602  17.8 ms
+yoloworld_s_coco_640             mAP 0.366  AP50 0.510  AP75 0.398  S/M/L 0.204/0.405/0.488  AR100 0.547  33.7 ms
+Traceback (most recent call last):
+  File "/Users/talina/workspace/sjsu/cmpe-249/hw_detection/evaluate.py", line 134, in <module>
+    o = evaluate(Path(r), a.cyclist)
+  File "/Users/talina/workspace/sjsu/cmpe-249/hw_detection/evaluate.py", line 95, in evaluate
+    res = to_coco_results(dets, ds, gt, open_vocab)
+  File "/Users/talina/workspace/sjsu/cmpe-249/hw_detection/evaluate.py", line 75, in to_coco_results
+    assert not missing, f"unmapped COCO labels: {missing}"
+           ^^^^^^^^^^^
+AssertionError: unmapped COCO labels: {'__background__'}
+rtdetr_l_coco_640                mAP 0.526  AP50 0.709  AP75 0.570  S/M/L 0.339/0.573/0.707  AR100 0.690  112.1 ms
+yolo11m_coco_640                 mAP 0.505  AP50 0.670  AP75 0.549  S/M/L 0.325/0.559/0.664  AR100 0.650  36.4 ms
+yolo11n_coco_640                 mAP 0.385  AP50 0.538  AP75 0.420  S/M/L 0.189/0.423/0.560  AR100 0.540  12.8 ms
+yolo11s_coco_640                 mAP 0.455  AP50 0.620  AP75 0.492  S/M/L 0.276/0.501/0.625  AR100 0.602  17.8 ms
+yoloworld_s_coco_640             mAP 0.366  AP50 0.510  AP75 0.398  S/M/L 0.204/0.405/0.488  AR100 0.547  33.7 ms
+fcos_r50_coco_tv                 mAP 0.392  AP50 0.583  AP75 0.420  S/M/L 0.222/0.424/0.513  AR100 0.571  220.3 ms
+frcnn_r50v2_coco_tv              mAP 0.469  AP50 0.679  AP75 0.514  S/M/L 0.309/0.508/0.603  AR100 0.630  372.6 ms
+rtdetr_l_kitti_640               mAP 0.232  AP50 0.420  AP75 0.224  S/M/L 0.157/0.207/0.323  AR100 0.389  84.3 ms
+yolo11m_kitti_640                mAP 0.208  AP50 0.392  AP75 0.203  S/M/L 0.158/0.185/0.289  AR100 0.329  25.0 ms
+yolo11n_kitti_640                mAP 0.152  AP50 0.312  AP75 0.131  S/M/L 0.056/0.132/0.255  AR100 0.267  10.0 ms
+yolo11s_kitti_640                mAP 0.184  AP50 0.358  AP75 0.173  S/M/L 0.090/0.164/0.274  AR100 0.313  9.9 ms
+yoloworld_s_kitti_640            mAP 0.228  AP50 0.403  AP75 0.230  S/M/L 0.163/0.197/0.335  AR100 0.364  14.7 ms
+rtdetr_l_kitti_1280              mAP 0.241  AP50 0.415  AP75 0.243  S/M/L 0.178/0.238/0.310  AR100 0.418  211.5 ms
+yolo11m_kitti_1280               mAP 0.228  AP50 0.420  AP75 0.228  S/M/L 0.138/0.210/0.301  AR100 0.353  58.9 ms
+yolo11s_kitti_1280               mAP 0.216  AP50 0.401  AP75 0.206  S/M/L 0.154/0.196/0.285  AR100 0.339  23.9 ms
+yoloworld_s_kitti_1280           mAP 0.251  AP50 0.432  AP75 0.257  S/M/L 0.175/0.236/0.340  AR100 0.414  28.9 ms
+fcos_r50_kitti_tv                mAP 0.216  AP50 0.412  AP75 0.204  S/M/L 0.161/0.203/0.285  AR100 0.395  142.8 ms
+frcnn_r50v2_kitti_tv             mAP 0.221  AP50 0.418  AP75 0.212  S/M/L 0.112/0.214/0.297  AR100 0.395  356.0 ms
+rtdetr_l_kitti_640               mAP 0.237  AP50 0.438  AP75 0.225  S/M/L 0.159/0.211/0.339  AR100 0.419  84.3 ms
+yolo11m_kitti_640                mAP 0.214  AP50 0.411  AP75 0.204  S/M/L 0.160/0.189/0.310  AR100 0.355  25.0 ms
+yolo11n_kitti_640                mAP 0.154  AP50 0.320  AP75 0.132  S/M/L 0.056/0.132/0.267  AR100 0.280  10.0 ms
+yolo11s_kitti_640                mAP 0.189  AP50 0.374  AP75 0.173  S/M/L 0.090/0.168/0.292  AR100 0.334  9.9 ms
+yoloworld_s_kitti_640            mAP 0.228  AP50 0.403  AP75 0.230  S/M/L 0.163/0.197/0.335  AR100 0.364  14.7 ms
+rtdetr_l_kitti_1280              mAP 0.247  AP50 0.429  AP75 0.246  S/M/L 0.186/0.243/0.321  AR100 0.449  211.5 ms
+yolo11m_kitti_1280               mAP 0.234  AP50 0.439  AP75 0.229  S/M/L 0.142/0.214/0.317  AR100 0.392  58.9 ms
+yolo11s_kitti_1280               mAP 0.222  AP50 0.422  AP75 0.207  S/M/L 0.156/0.201/0.304  AR100 0.374  23.9 ms
+yoloworld_s_kitti_1280           mAP 0.251  AP50 0.432  AP75 0.257  S/M/L 0.175/0.236/0.340  AR100 0.414  28.9 ms
+fcos_r50_kitti_tv                mAP 0.218  AP50 0.420  AP75 0.205  S/M/L 0.165/0.205/0.292  AR100 0.408  142.8 ms
+frcnn_r50v2_kitti_tv             mAP 0.228  AP50 0.445  AP75 0.214  S/M/L 0.115/0.221/0.319  AR100 0.437  356.0 ms
+Matplotlib is building the font cache; this may take a moment.
+                            small <32²  medium  large ≥96²
+COCO val2017                      42.0    34.1        23.9
+KITTI val (native 1224 px)        16.9    54.4        28.7
+KITTI as seen @640 (×0.52)        51.6    38.9         9.6
+| model                   | imgsz          |   mAP |   AP50 |   AP75 |   APs |   APm |   APl |   AR100 |   latency_ms |   fps |   mem_mb |
+|:------------------------|:---------------|------:|-------:|-------:|------:|------:|------:|--------:|-------------:|------:|---------:|
+| FCOS R50-FPN            | min800/max1333 |  39.2 |   58.3 |   42   |  22.2 |  42.4 |  51.3 |    57.1 |        220.3 |   4.5 |     1202 |
+| Faster R-CNN R50-FPN v2 | min800/max1333 |  46.9 |   67.9 |   51.4 |  30.9 |  50.8 |  60.3 |    63   |        372.6 |   2.7 |     2258 |
+| RT-DETR-L               | 640            |  52.6 |   70.9 |   57   |  33.9 |  57.3 |  70.7 |    69   |        112.1 |   8.9 |     1148 |
+| YOLO11m                 | 640            |  50.5 |   67   |   54.9 |  32.5 |  55.9 |  66.4 |    65   |         36.4 |  27.5 |     1155 |
+| YOLO11n                 | 640            |  38.5 |   53.8 |   42   |  18.9 |  42.3 |  56   |    54   |         12.8 |  78.1 |      102 |
+| YOLO11s                 | 640            |  45.5 |   62   |   49.2 |  27.6 |  50.1 |  62.5 |    60.2 |         17.8 |  56.3 |      183 |
+| YOLO-World-v2-S         | 640            |  36.6 |   51   |   39.8 |  20.4 |  40.5 |  48.8 |    54.7 |         33.7 |  29.6 |     1202 |
+| model                   | imgsz          |   mAP |   AP50 |   AP75 |   APs |   APm |   APl |   AR100 |   latency_ms |   fps |   mem_mb |
+|:------------------------|:---------------|------:|-------:|-------:|------:|------:|------:|--------:|-------------:|------:|---------:|
+| FCOS R50-FPN            | min800/max1333 |  21.8 |   42   |   20.5 |  16.5 |  20.5 |  29.2 |    40.8 |        142.8 |   7   |     1234 |
+| Faster R-CNN R50-FPN v2 | min800/max1333 |  22.8 |   44.5 |   21.4 |  11.5 |  22.1 |  31.9 |    43.7 |        356   |   2.8 |     1210 |
+| RT-DETR-L               | 1280           |  24.7 |   42.9 |   24.6 |  18.6 |  24.3 |  32.1 |    44.9 |        211.5 |   4.7 |     2180 |
+| RT-DETR-L               | 640            |  23.7 |   43.8 |   22.5 |  15.9 |  21.1 |  33.9 |    41.9 |         84.3 |  11.9 |     1148 |
+| YOLO11m                 | 1280           |  23.4 |   43.9 |   22.9 |  14.2 |  21.4 |  31.7 |    39.2 |         58.9 |  17   |     1146 |
+| YOLO11m                 | 640            |  21.4 |   41.1 |   20.4 |  16   |  18.9 |  31   |    35.5 |         25   |  40   |      162 |
+| YOLO11n                 | 640            |  15.4 |   32   |   13.2 |   5.6 |  13.2 |  26.7 |    28   |         10   | 100.1 |       68 |
+| YOLO11s                 | 1280           |  22.2 |   42.2 |   20.7 |  15.6 |  20.1 |  30.4 |    37.4 |         23.9 |  41.8 |     1102 |
+| YOLO11s                 | 640            |  18.9 |   37.4 |   17.3 |   9   |  16.8 |  29.2 |    33.4 |          9.9 | 101.3 |      118 |
+| YOLO-World-v2-S         | 1280           |  25.1 |   43.2 |   25.7 |  17.5 |  23.6 |  34   |    41.4 |         28.9 |  34.6 |     1162 |
+| YOLO-World-v2-S         | 640            |  22.8 |   40.3 |   23   |  16.3 |  19.7 |  33.5 |    36.4 |         14.7 |  67.9 |      106 |
+                      run       class     <25 px      25–40      40–80        ≥80           n per bin
+0    frcnn_r50v2_kitti_tv         car  88.750000  88.069705  88.929889  92.861821  800/1492/1897/1527
+1    frcnn_r50v2_kitti_tv  pedestrian  40.000000  49.019608  59.064327  81.481481       15/51/342/513
+2    frcnn_r50v2_kitti_tv     cyclist  50.000000  36.842105  41.317365  42.452830       22/57/167/106
+3       fcos_r50_kitti_tv         car  87.625000  89.477212  90.089615  93.844139  800/1492/1897/1527
+4       fcos_r50_kitti_tv  pedestrian  13.333333  33.333333  65.789474  85.185185       15/51/342/513
+5       fcos_r50_kitti_tv     cyclist  36.363636  42.105263  52.095808  53.773585       22/57/167/106
+6       yolo11s_kitti_640         car  60.375000  75.134048  84.818134  91.224623  800/1492/1897/1527
+7       yolo11s_kitti_640  pedestrian   0.000000   3.921569  38.888889  78.362573       15/51/342/513
+8       yolo11s_kitti_640     cyclist   0.000000   8.771930  24.550898  41.509434       22/57/167/106
+9      yolo11s_kitti_1280         car  79.625000  81.702413  86.557723  91.290111  800/1492/1897/1527
+10     yolo11s_kitti_1280  pedestrian  13.333333  27.450980  50.877193  78.752437       15/51/342/513
+11     yolo11s_kitti_1280     cyclist   9.090909  22.807018  35.928144  42.452830       22/57/167/106
+12     rtdetr_l_kitti_640         car  84.875000  86.863271  88.297312  92.337917  800/1492/1897/1527
+13     rtdetr_l_kitti_640  pedestrian   0.000000  11.764706  55.847953  81.676413       15/51/342/513
+14     rtdetr_l_kitti_640     cyclist   4.545455  21.052632  39.520958  44.339623       22/57/167/106
+15    rtdetr_l_kitti_1280         car  83.625000  82.841823  82.551397  82.907662  800/1492/1897/1527
+16    rtdetr_l_kitti_1280  pedestrian   0.000000  27.450980  48.245614  77.192982       15/51/342/513
+17    rtdetr_l_kitti_1280     cyclist  13.636364  26.315789  47.305389  60.377358       22/57/167/106
+18  yoloworld_s_kitti_640         car  23.375000  36.260054  51.765946  77.406680  800/1492/1897/1527
+19  yoloworld_s_kitti_640  pedestrian   0.000000   0.000000   2.631579  23.196881       15/51/342/513
+20  yoloworld_s_kitti_640     cyclist   0.000000   0.000000   2.395210  12.264151       22/57/167/106
+worst images: ['003114.png', '004338.png']

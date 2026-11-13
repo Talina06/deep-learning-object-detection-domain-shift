@@ -1,0 +1,6 @@
+| run                                  | prompts                                                              |   mAP |   car AP |   pedestrian AP |   cyclist AP |   truck AP |   tram AP |
+|:-------------------------------------|:---------------------------------------------------------------------|------:|---------:|----------------:|-------------:|-----------:|----------:|
+| yoloworld_s_kitti_640                | car, van, truck, pedestrian, person sitting, cyclist, tram           |  22.8 |     46.1 |            12.8 |          2.3 |       45.6 |       7.5 |
+| yoloworld_s_kitti_640_prompts-coco80 | all 80 COCO names                                                    |  19.9 |     45.8 |            18.2 |          0.0 |       31.3 |       4.2 |
+| yoloworld_s_kitti_640_prompts-person | car, van, truck, person, person sitting, cyclist, tram               |  23.5 |     45.6 |            17.5 |          1.2 |       45.5 |       7.7 |
+| yoloworld_s_kitti_640_prompts-rider  | car, van, truck, person, person riding a bicycle, bicycle, bus, tram |  20.4 |     45.7 |            17.8 |          1.6 |       37.0 |       0.0 |

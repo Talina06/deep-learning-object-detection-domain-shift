@@ -1,0 +1,209 @@
+{
+  "hardware": "Apple M4, 16 GB unified memory",
+  "platform": "macOS-15.7.4-arm64-arm-64bit-Mach-O",
+  "torch": "2.15.0",
+  "warmup": 20,
+  "n_images": 300,
+  "batch": 1,
+  "memory_note": "torch.mps.driver_allocated_memory() max over timed images, fresh process per config",
+  "results": [
+    {
+      "model": "YOLO11n",
+      "key": "yolo11n",
+      "dataset": "coco",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 13.145478995284066,
+      "latency_ms_p90": 16.394428868079558,
+      "fps": 76.07178105558188,
+      "mem_mb": 93.84375
+    },
+    {
+      "model": "YOLO11s",
+      "key": "yolo11s",
+      "dataset": "coco",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 17.835520528024063,
+      "latency_ms_p90": 20.801533327903602,
+      "fps": 56.06788982854467,
+      "mem_mb": 183.5
+    },
+    {
+      "model": "YOLO11m",
+      "key": "yolo11m",
+      "dataset": "coco",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 36.83150000870228,
+      "latency_ms_p90": 44.78625420597385,
+      "fps": 27.150672651500138,
+      "mem_mb": 1155.234375
+    },
+    {
+      "model": "RT-DETR-L",
+      "key": "rtdetr_l",
+      "dataset": "coco",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 62.450687459204346,
+      "latency_ms_p90": 64.47004939545877,
+      "fps": 16.012633978661096,
+      "mem_mb": 1147.796875
+    },
+    {
+      "model": "YOLO-World-v2-S",
+      "key": "yoloworld_s",
+      "dataset": "coco",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 22.065916477004066,
+      "latency_ms_p90": 25.636353803565733,
+      "fps": 45.31876122354343,
+      "mem_mb": 1169.703125
+    },
+    {
+      "model": "Faster R-CNN R50-FPN v2",
+      "key": "frcnn_r50v2",
+      "dataset": "coco",
+      "imgsz": "min800/max1333",
+      "n": 300,
+      "latency_ms_median": 327.4384165124502,
+      "latency_ms_p90": 351.6717702150345,
+      "fps": 3.0540093940442596,
+      "mem_mb": 2249.828125
+    },
+    {
+      "model": "FCOS R50-FPN",
+      "key": "fcos_r50",
+      "dataset": "coco",
+      "imgsz": "min800/max1333",
+      "n": 300,
+      "latency_ms_median": 223.34956252598204,
+      "latency_ms_p90": 241.76101668854244,
+      "fps": 4.477286584717044,
+      "mem_mb": 1201.703125
+    },
+    {
+      "model": "YOLO11n",
+      "key": "yolo11n",
+      "dataset": "kitti",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 9.661187476012856,
+      "latency_ms_p90": 10.891545639606193,
+      "fps": 103.50694492605966,
+      "mem_mb": 67.8125
+    },
+    {
+      "model": "YOLO11s",
+      "key": "yolo11s",
+      "dataset": "kitti",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 11.620208504609764,
+      "latency_ms_p90": 12.654166365973651,
+      "fps": 86.05697562167647,
+      "mem_mb": 117.8125
+    },
+    {
+      "model": "YOLO11m",
+      "key": "yolo11m",
+      "dataset": "kitti",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 19.316374993650243,
+      "latency_ms_p90": 21.85830000671558,
+      "fps": 51.76954787472929,
+      "mem_mb": 161.78125
+    },
+    {
+      "model": "RT-DETR-L",
+      "key": "rtdetr_l",
+      "dataset": "kitti",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 70.20925052347593,
+      "latency_ms_p90": 73.78727077157237,
+      "fps": 14.243137372127753,
+      "mem_mb": 1147.796875
+    },
+    {
+      "model": "YOLO-World-v2-S",
+      "key": "yoloworld_s",
+      "dataset": "kitti",
+      "imgsz": "640",
+      "n": 300,
+      "latency_ms_median": 13.637874479172751,
+      "latency_ms_p90": 14.901807974092662,
+      "fps": 73.32520925655697,
+      "mem_mb": 105.71875
+    },
+    {
+      "model": "Faster R-CNN R50-FPN v2",
+      "key": "frcnn_r50v2",
+      "dataset": "kitti",
+      "imgsz": "min800/max1333",
+      "n": 300,
+      "latency_ms_median": 243.15024999668822,
+      "latency_ms_p90": 247.34886188525707,
+      "fps": 4.112683412884093,
+      "mem_mb": 1217.703125
+    },
+    {
+      "model": "FCOS R50-FPN",
+      "key": "fcos_r50",
+      "dataset": "kitti",
+      "imgsz": "min800/max1333",
+      "n": 300,
+      "latency_ms_median": 138.74487450812012,
+      "latency_ms_p90": 139.8068337352015,
+      "fps": 7.207473454750752,
+      "mem_mb": 1233.703125
+    },
+    {
+      "model": "YOLO11s",
+      "key": "yolo11s",
+      "dataset": "kitti",
+      "imgsz": "1280",
+      "n": 300,
+      "latency_ms_median": 24.312958004884422,
+      "latency_ms_p90": 25.148549710866064,
+      "fps": 41.13033057512386,
+      "mem_mb": 1101.8125
+    },
+    {
+      "model": "YOLO11m",
+      "key": "yolo11m",
+      "dataset": "kitti",
+      "imgsz": "1280",
+      "n": 300,
+      "latency_ms_median": 56.811645976267755,
+      "latency_ms_p90": 57.27121669915505,
+      "fps": 17.60202477530286,
+      "mem_mb": 1145.78125
+    },
+    {
+      "model": "RT-DETR-L",
+      "key": "rtdetr_l",
+      "dataset": "kitti",
+      "imgsz": "1280",
+      "n": 300,
+      "latency_ms_median": 209.36789648840204,
+      "latency_ms_p90": 210.47099971328862,
+      "fps": 4.776281448934532,
+      "mem_mb": 2179.796875
+    },
+    {
+      "model": "YOLO-World-v2-S",
+      "key": "yoloworld_s",
+      "dataset": "kitti",
+      "imgsz": "1280",
+      "n": 300,
+      "latency_ms_median": 28.81758299190551,
+      "latency_ms_p90": 29.294224694604054,
+      "fps": 34.70103652623772,
+      "mem_mb": 1161.71875
+    }
+  ]
+}

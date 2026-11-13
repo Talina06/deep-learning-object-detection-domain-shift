@@ -1,0 +1,33 @@
+{
+  "run": "yoloworld_s_kitti_640_prompts-person",
+  "model": "YOLO-World-v2-S",
+  "family": "open-vocabulary",
+  "checkpoint": "yolov8s-worldv2.pt",
+  "dataset": "kitti",
+  "split": "kitti-val (ultralytics split, 1496 imgs)",
+  "n_images": 1496,
+  "imgsz": 640,
+  "conf_thresh": 0.001,
+  "nms_iou": 0.7,
+  "max_det": 100,
+  "device": "mps",
+  "hardware": "arm arm64",
+  "platform": "macOS-15.7.4-arm64-arm-64bit-Mach-O",
+  "torch": "2.15.0",
+  "latency_ms_median": 12.702979001915082,
+  "latency_ms_p90": 13.763496122555807,
+  "fps": 78.72169196290425,
+  "mem_mb_peak": 105.71875,
+  "wall_s": 19.39909601211548,
+  "prompts": [
+    "car",
+    "van",
+    "truck",
+    "person",
+    "person sitting",
+    "cyclist",
+    "tram"
+  ],
+  "torchvision": "0.29.2",
+  "ultralytics": "8.4.203"
+}
