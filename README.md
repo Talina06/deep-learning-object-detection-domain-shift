@@ -70,19 +70,27 @@ Full tables are in [`results/summary/`](results/summary) and charts in [`figs/`]
 
 ## Files
 
-| File | What it does |
+```
+.
+├── src/            all Python code (listed below)
+├── run_all.sh      every command, in order: running it reproduces the whole study
+├── results/        scores for every run + summary tables (results/summary/)
+├── figs/           charts used in the report
+└── logs/           the real console output from running the experiments
+```
+
+| File in `src/` | What it does |
 | --- | --- |
-| `detectors.py` | Wraps all seven models so they take an image and return boxes in the same format |
-| `taxonomy.py` | Translates KITTI's labels (car, van, cyclist, ...) into COCO's labels (car, truck, person, bicycle, ...) |
-| `kitti_to_coco.py` | Converts KITTI's label files into the format the scoring tool expects |
-| `run_infer.py` | Runs one model on one dataset and saves its boxes and settings |
-| `evaluate.py` | Scores the saved boxes against the true labels (uses the official COCO scoring code, `pycocotools`) |
-| `bench_latency.py` | Measures speed and memory fairly: same 300 images, one model at a time |
-| `summarize.py` | Builds the result tables and charts |
-| `failure_analysis.py` | Digs into mistakes: which objects are missed, what gets mislabelled, example images |
-| `run_all.sh` | **Every command, in order.** Running it reproduces the whole study |
-| `logs/` | The real console output from running the experiments |
-| `results/<run>/meta.json` | The exact settings used for each run (model file, image size, thresholds, hardware, versions) |
+| [`detectors.py`](src/detectors.py) | Wraps all seven models so they take an image and return boxes in the same format |
+| [`taxonomy.py`](src/taxonomy.py) | Translates KITTI's labels (car, van, cyclist, ...) into COCO's labels (car, truck, person, bicycle, ...) |
+| [`kitti_to_coco.py`](src/kitti_to_coco.py) | Converts KITTI's label files into the format the scoring tool expects |
+| [`run_infer.py`](src/run_infer.py) | Runs one model on one dataset and saves its boxes and settings |
+| [`evaluate.py`](src/evaluate.py) | Scores the saved boxes against the true labels (uses the official COCO scoring code, `pycocotools`) |
+| [`bench_latency.py`](src/bench_latency.py) | Measures speed and memory fairly: same 300 images, one model at a time |
+| [`summarize.py`](src/summarize.py) | Builds the result tables and charts |
+| [`failure_analysis.py`](src/failure_analysis.py) | Digs into mistakes: which objects are missed, what gets mislabelled, example images |
+
+Each `results/<run>/meta.json` records the exact settings used for that run (model file, image size, thresholds, hardware, versions).
 
 ## Run it yourself
 
@@ -106,9 +114,10 @@ curl -L -o kitti.zip https://github.com/ultralytics/assets/releases/download/v0.
 To try just one model on one dataset:
 
 ```bash
-cd weights
-../.venv/bin/python ../run_infer.py --model yolo11s --dataset kitti --imgsz 640
-cd .. && .venv/bin/python evaluate.py results/yolo11s_kitti_640 --cyclist fuse
+.venv/bin/python src/kitti_to_coco.py data/kitti data/kitti/kitti_val_coco.json   # once, after downloading KITTI
+cd weights   # model files download here
+../.venv/bin/python ../src/run_infer.py --model yolo11s --dataset kitti --imgsz 640
+cd .. && .venv/bin/python src/evaluate.py results/yolo11s_kitti_640 --cyclist fuse
 ```
 
 The raw box files (`results/*/detections.json`, ~426 MB) are not stored in this repo; `run_all.sh` recreates them.
